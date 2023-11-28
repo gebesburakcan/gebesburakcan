@@ -1,4 +1,4 @@
-[![MasterHead](https://pbs.twimg.com/media/FZRG6hAXwAI20kq.jpg)
+![MasterHead](https://pbs.twimg.com/media/FZRG6hAXwAI20kq.jpg)
 
 <h3 align="center">Hi I'm Burakcan</h3>
 
