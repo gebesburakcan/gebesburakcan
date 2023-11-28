@@ -1,5 +1,6 @@
-![MasterHead](https://pbs.twimg.com/media/FZRG6hAXwAI20kq.jpg)
-
+<p align='center'>
+<img src="https://pbs.twimg.com/media/FZRG6hAXwAI20kq.jpg"></img>
+</p>
 <h3 align="center">Hi I'm Burakcan</h3>
 
 - 🔭 I’m currently working on **React Native and Unity**
