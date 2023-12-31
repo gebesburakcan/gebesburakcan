@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Burakcan Gebes</h1>
-- 🔭 I’m currently working on **React Native and Unity**
+
 
 - 🌱 I’m currently learning **React, React-Native and Unity**
 
