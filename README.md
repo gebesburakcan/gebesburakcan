@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Burakcan Gebes</h1>
-- 🔭 I’m currently working on **React Native and Python**
+- 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React, React-Native and Python**
+- 🌱 I’m currently learning **React, React-Native and Unreal Engine 5**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
