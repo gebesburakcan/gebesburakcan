@@ -1,7 +1,3 @@
-<p align='center'>
-<img src="https://pbs.twimg.com/media/FZRG6hAXwAI20kq.jpg"></img>
-</p>
-
 <h1 align="center">Hi 👋, I'm Burakcan Gebes</h1>
 - 🔭 I’m currently working on **React Native**
 
