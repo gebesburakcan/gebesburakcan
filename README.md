@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Burakcan Gebes</h1>
 - 🔭 I’m currently working on **React Native**
 
-- 🌱 I’m currently learning **React, React-Native and Unreal Engine 5**
+- 🌱 I’m currently learning **React, React-Native and Unity**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
